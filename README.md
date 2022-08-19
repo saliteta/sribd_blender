@@ -12,7 +12,7 @@
 - This folder is transform the points generate by google-mediapipe to a blender animation
 - The question of the points_import is that it cannot merge three outputs of mediapipe correctly, sometime need to adjust by hands
 
-## BlenderArMocap
+## BlenderArMocap (cite: https://github.com/cgtinker/BlendArMocap)
 - This folder is a plug in develop by another group, the components of this porject will solve our problem
 - However, BlenderArMocap is too large for one to completely understand
 
@@ -25,3 +25,5 @@
 # Display it using blender
 ![image](https://user-images.githubusercontent.com/88835096/185557074-d71429bc-546c-4d25-9d9d-44249ff3fc97.png)
 # Render it with blender
+
+### Thanks to blenderArMocap and pipeMedia
