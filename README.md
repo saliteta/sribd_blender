@@ -27,3 +27,7 @@
 # Render it with blender
 
 ### Thanks to blenderArMocap and pipeMedia
+
+## Future work:
+- improving the connection of hands and faces by reading the file of blenderArMocap
+- adding the generation model to the google-mediapipe
