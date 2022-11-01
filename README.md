@@ -3,7 +3,7 @@
 - The demo of the project divided into two parts. The first parts is points location generation, the second part is the points displacement
 - There still question to merge hands with face. The future method will be merge a new blender repo to our project
 
-## Google-Mediapipe-Main
+## Google-Mediapipe-Main (cite: MediaPipe: A Framework for Building Perception Pipelines  https://arxiv.org/pdf/1906.08172.pdf)
 - This folder store the essential code to transform a video body movement to corresponding key points location
 - The question of the google-mediapipe is that the output will be divided into three part, body, face, and hands
 - The output format of those three are not the same
@@ -44,6 +44,7 @@
 ### Thanks to blenderArMocap and pipeMedia
 
 ## csc3185
+- After do some improvement to the SRIBD project, use it as a project in CSC3185
 - This is a folder used for producing formated csv file
 - Since the txt file generate by media pipe is hard to read
 # Transform the video to csv.
@@ -51,7 +52,7 @@
 
 
 
-## Whisper
+## Whisper (cite this paper: Robust Speech Recognition via Large-Scale Weak Supervision https://cdn.openai.com/papers/whisper.pdf)
 - transcrip people's voice to text
 <p align= "center">
   <img src = "image/mp3.jpg" />
