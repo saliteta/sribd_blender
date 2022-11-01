@@ -28,6 +28,22 @@
 
 ### Thanks to blenderArMocap and pipeMedia
 
+## csc3185
+- This is a folder used for producing formated csv file
+- Since the txt file generate by media pipe is hard to read
+# Transform the video to csv.
+![image](https://user-images.githubusercontent.com/88835096/199153540-8d9b489e-08e7-4e7d-902b-9409d9266527.png)
+
+
+
+## Whisper
+- transcrip people's voice to text
+<p align= "center">
+![image](https://user-images.githubusercontent.com/88835096/199153773-bdd9ba13-7709-46cd-9360-0d97eb0b8ffc.jpg)
+![image](https://user-images.githubusercontent.com/88835096/199153858-799ffe9b-d7b1-4abf-b077-4bd0f4b0f571.png)
+</p>
+
+
 ## Future work:
 - improving the connection of hands and faces by reading the file of blenderArMocap
 - adding the generation model to the google-mediapipe
