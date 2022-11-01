@@ -31,22 +31,32 @@ Import to Blender | Render Motion with Predefined Model
 
 ### Thanks to blenderArMocap and pipeMedia
 
-## csc3185
+# csc3185
 - After do some improvement to the SRIBD project, use it as a project in CSC3185
-# Improvement1： Transform the video to csv.
+## Improvement1： Transform the video to csv.
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/88835096/199153540-8d9b489e-08e7-4e7d-902b-9409d9266527.png">
 </p>
 
 
-## Whisper (cite this paper: Robust Speech Recognition via Large-Scale Weak Supervision https://cdn.openai.com/papers/whisper.pdf)
+## Improvement2: Whisper (cite this paper: Robust Speech Recognition via Large-Scale Weak Supervision https://cdn.openai.com/papers/whisper.pdf)
 - transcrip people's voice to text
+- test code in whisper.ipynb
 <p align= "center">
   <img src = "image/mp3.jpg" />
  </p>
  <p align= "center">
   <img src = "https://user-images.githubusercontent.com/88835096/199153858-799ffe9b-d7b1-4abf-b077-4bd0f4b0f571.png" />
  </p>
+ 
+## Improvement3: Sentiment Analysis (cite this paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/abs/1810.04805)
+- Do the compueter vision analysis using the feature extracted from the video sequence
+- Do the natural language processing using the BERT model analize the text extract from the video sequence
+
+
+ Expression Analysis through Video            |  Expression Analysis through Audio
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/88835096/199207384-e2a06c96-2857-4fdf-9cd5-0094928832c5.png)　|   ![image](https://user-images.githubusercontent.com/88835096/199207600-286d15e8-0f58-427c-9126-e80c0b7a71e1.png)
 
 
 ## Future work:
