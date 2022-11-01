@@ -39,10 +39,10 @@
 ## Whisper
 - transcrip people's voice to text
 <p align= "center">
-  <img src - "image/mp3.jpg" />
+  <img src = "image/mp3.jpg" />
  </p>
  <p align= "center">
-  <img src - "https://user-images.githubusercontent.com/88835096/199153858-799ffe9b-d7b1-4abf-b077-4bd0f4b0f571.png" />
+  <img src = "https://user-images.githubusercontent.com/88835096/199153858-799ffe9b-d7b1-4abf-b077-4bd0f4b0f571.png" />
  </p>
 
 
