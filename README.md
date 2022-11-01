@@ -26,8 +26,7 @@ Detection             |  Output 3D location
 
 Import to Blender | Render Motion with Predefined Model
 :-------------------------:|:-------------------------:
- <img src = "https://user-images.githubusercontent.com/88835096/185556920-0608db8d-5fcc-48e8-92bf-9869f112534c.png"> |
- <img src = "https://user-images.githubusercontent.com/88835096/185557074-d71429bc-546c-4d25-9d9d-44249ff3fc97.png">
+ <img src = "https://user-images.githubusercontent.com/88835096/185556920-0608db8d-5fcc-48e8-92bf-9869f112534c.png"> |<img src = "https://user-images.githubusercontent.com/88835096/185557074-d71429bc-546c-4d25-9d9d-44249ff3fc97.png">
 
 
 # Render it with blender
