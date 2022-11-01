@@ -16,10 +16,14 @@
 - This folder is a plug in develop by another group, the components of this porject will solve our problem
 - However, BlenderArMocap is too large for one to completely understand
 
-### demo displacement
+# demo displacement
 <p align = "center">
  <img src = "https://user-images.githubusercontent.com/88835096/185556550-effee91e-0cc3-4219-95cb-d133c749b9a6.png">
 </p>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src = "https://user-images.githubusercontent.com/88835096/185556550-effee91e-0cc3-4219-95cb-d133c749b9a6.png">  |   <img src = "https://user-images.githubusercontent.com/88835096/185556691-7a6265b1-2f60-4584-beed-c31d8d5b751b.png">
 
 # Transform the video to points
 
