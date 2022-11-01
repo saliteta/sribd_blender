@@ -29,17 +29,14 @@ Import to Blender | Render Motion with Predefined Model
  <img src = "https://user-images.githubusercontent.com/88835096/185556920-0608db8d-5fcc-48e8-92bf-9869f112534c.png"> |<img src = "https://user-images.githubusercontent.com/88835096/185557074-d71429bc-546c-4d25-9d9d-44249ff3fc97.png">
 
 
-# Render it with blender
-
 ### Thanks to blenderArMocap and pipeMedia
 
 ## csc3185
 - After do some improvement to the SRIBD project, use it as a project in CSC3185
-- This is a folder used for producing formated csv file
-- Since the txt file generate by media pipe is hard to read
-# Transform the video to csv.
+# Improvement1： Transform the video to csv.
+<p align = "center">
 ![image](https://user-images.githubusercontent.com/88835096/199153540-8d9b489e-08e7-4e7d-902b-9409d9266527.png)
-
+</p>
 
 
 ## Whisper (cite this paper: Robust Speech Recognition via Large-Scale Weak Supervision https://cdn.openai.com/papers/whisper.pdf)
