@@ -17,27 +17,18 @@
 - However, BlenderArMocap is too large for one to completely understand
 
 # demo displacement
-<p align = "center">
- <img src = "https://user-images.githubusercontent.com/88835096/185556550-effee91e-0cc3-4219-95cb-d133c749b9a6.png">
-</p>
 
-Solarized dark             |  Solarized Ocean
+
+Detection             |  Output 3D location
 :-------------------------:|:-------------------------:
 <img src = "https://user-images.githubusercontent.com/88835096/185556550-effee91e-0cc3-4219-95cb-d133c749b9a6.png">  |   <img src = "https://user-images.githubusercontent.com/88835096/185556691-7a6265b1-2f60-4584-beed-c31d8d5b751b.png">
 
-# Transform the video to points
 
-<p align = "center">
- <img src = "https://user-images.githubusercontent.com/88835096/185556691-7a6265b1-2f60-4584-beed-c31d8d5b751b.png">
-</p>
-
-# Store the points as txt
-
+# Display it using blender
 <p align = "center">
  <img src = "https://user-images.githubusercontent.com/88835096/185556920-0608db8d-5fcc-48e8-92bf-9869f112534c.png">
 </p>
 
-# Display it using blender
 
 <p align = "center">
  <img src = "https://user-images.githubusercontent.com/88835096/185557074-d71429bc-546c-4d25-9d9d-44249ff3fc97.png">
