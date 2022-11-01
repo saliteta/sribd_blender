@@ -56,7 +56,8 @@ Import to Blender | Render Motion with Predefined Model
 
  Expression Analysis through Video            |  Expression Analysis through Audio
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/88835096/199207384-e2a06c96-2857-4fdf-9cd5-0094928832c5.png)　|   ![image](https://user-images.githubusercontent.com/88835096/199207600-286d15e8-0f58-427c-9126-e80c0b7a71e1.png)
+![image](https://user-images.githubusercontent.com/88835096/199207384-e2a06c96-2857-4fdf-9cd5-0094928832c5.png)　|   ![image](https://user-images.githubusercontent.com/88835096/199207896-6a6963e0-3a42-4bb7-8686-f0baa06e4dad.png)
+
 
 
 ## Future work:
