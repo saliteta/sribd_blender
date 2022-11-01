@@ -38,7 +38,7 @@
 
 ## Whisper
 - transcrip people's voice to text
-<p align= "center" src = "https://user-images.githubusercontent.com/88835096/199153773-bdd9ba13-7709-46cd-9360-0d97eb0b8ffc.jpg">
+<p align= "center" src = "/image/mp3.jpg">
 ![image](https://user-images.githubusercontent.com/88835096/199153858-799ffe9b-d7b1-4abf-b077-4bd0f4b0f571.png)
 </p>
 
